@@ -1,0 +1,3 @@
+pythonWeb/
+__pycache__/
+*.sqlite3
